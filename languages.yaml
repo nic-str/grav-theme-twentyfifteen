@@ -1,8 +1,8 @@
 en:
   SITE:
-    TITLE: My Blog
-    DESCRIPTION: Blogging about stuff
-    COPYRIGHT: © Copyright %s Your Company
+    TITLE: nicolas.tv
+    DESCRIPTION: Electronics Projects - Design and Test Equipment Repair.
+    COPYRIGHT: © %s Nicolas Striebig
   SUBSCRIBE: Subscribe
   MONTHS_OF_THE_YEAR: [January, February, March, April, May, June, July, August, September, October, November, December]
   DAYS_OF_THE_WEEK: [Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday]
